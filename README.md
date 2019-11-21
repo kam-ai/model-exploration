@@ -2,6 +2,13 @@
 Code for testing and playing with different machine learning models. Use binder link below to try it out or clone and install deps locally. Note that you also have to install jupyter notebook which is not in requirements.txt. 
 
 
+## Steps
+0. sklearn_models.ipynb (Optional)
+1. iris.ipynb
+2. MNIST_sklearn.ipynb
+3. mnist_tensorflow.ipynb
+
+
 ## Binder
 https://mybinder.org/v2/gh/kam-ai/model-exploration/master
 
